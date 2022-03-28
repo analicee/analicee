@@ -1,7 +1,7 @@
 Olá! sou Analice👋
 
 - 🔭 Buscando oportunidades para estágio.
-- 🌱 Estudando Php.
+- 🌱 Estudando linguagens de progração.
 - 👯 Linguagem de programação Java, Python.
 - 📫 contate-me no email: analicemota82@gmail.com
 - 😄 Pronomes: ela/dela
