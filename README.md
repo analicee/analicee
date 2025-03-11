@@ -1,10 +1,6 @@
 Olá! sou Analice👋
 
-- 🔭 Buscando oportunidades.
-- 🌱 Estudando linguagens de programação.
-- 👯 Linguagem de programação Python.
 - 📫 contate-me no email: analicemota82@gmail.com
-- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/analicee">
